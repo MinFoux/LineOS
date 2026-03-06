@@ -19,4 +19,4 @@ If you find a bug in my project, it would make me very happy if you told me.
 
 I will not accept a bug report if it is only present on older versions.
 
-If a change you are responsible for makes bugs in the project, it is your job to fix it.
+If a change you made is responsible for bugs/errors in the project, it is your job to fix it.
